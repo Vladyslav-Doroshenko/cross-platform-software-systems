@@ -1,0 +1,9 @@
+D:\OSPanel\domains\MyRenderButton\MyRenderButton\obj\Debug\MyRenderButton.csproj.AssemblyReference.cache
+D:\OSPanel\domains\MyRenderButton\MyRenderButton\obj\Debug\MyRenderButton.Properties.Resources.resources
+D:\OSPanel\domains\MyRenderButton\MyRenderButton\obj\Debug\MyRenderButton.csproj.GenerateResource.cache
+D:\OSPanel\domains\MyRenderButton\MyRenderButton\obj\Debug\MyRenderButton.csproj.CoreCompileInputs.cache
+D:\OSPanel\domains\MyRenderButton\MyRenderButton\bin\Debug\MyRenderButton.exe.config
+D:\OSPanel\domains\MyRenderButton\MyRenderButton\bin\Debug\MyRenderButton.exe
+D:\OSPanel\domains\MyRenderButton\MyRenderButton\bin\Debug\MyRenderButton.pdb
+D:\OSPanel\domains\MyRenderButton\MyRenderButton\obj\Debug\MyRenderButton.exe
+D:\OSPanel\domains\MyRenderButton\MyRenderButton\obj\Debug\MyRenderButton.pdb
