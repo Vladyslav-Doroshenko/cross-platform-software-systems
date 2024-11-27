@@ -1,9 +1,0 @@
-D:\OSPanel\domains\CustomCheckbox\CustomCheckbox\obj\Debug\CustomCheckbox.csproj.AssemblyReference.cache
-D:\OSPanel\domains\CustomCheckbox\CustomCheckbox\obj\Debug\CustomCheckbox.Properties.Resources.resources
-D:\OSPanel\domains\CustomCheckbox\CustomCheckbox\obj\Debug\CustomCheckbox.csproj.GenerateResource.cache
-D:\OSPanel\domains\CustomCheckbox\CustomCheckbox\obj\Debug\CustomCheckbox.csproj.CoreCompileInputs.cache
-D:\OSPanel\domains\CustomCheckbox\CustomCheckbox\bin\Debug\CustomCheckbox.exe.config
-D:\OSPanel\domains\CustomCheckbox\CustomCheckbox\bin\Debug\CustomCheckbox.exe
-D:\OSPanel\domains\CustomCheckbox\CustomCheckbox\bin\Debug\CustomCheckbox.pdb
-D:\OSPanel\domains\CustomCheckbox\CustomCheckbox\obj\Debug\CustomCheckbox.exe
-D:\OSPanel\domains\CustomCheckbox\CustomCheckbox\obj\Debug\CustomCheckbox.pdb
